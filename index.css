@@ -1,0 +1,60 @@
+
+table{
+    width:100%;
+    border-collapse: collapse;
+    margin-top: 1em;
+}
+
+table,th,td{
+    border:1px solid black ;
+}
+th,td{
+    padding:10px;
+}
+td{
+    width:50px;
+    height:50px;
+    padding:0 10px;
+    text-align: center;
+}
+img{
+    width:100%;
+}
+.imageBox{
+    width:10px;
+    height: 10px;;
+}
+
+/* #submitbtn {  
+    background-color: #4CAF50;  
+    color: white;  
+    padding: 16px 20px;  
+    margin: 8px 0;  
+    border: none;  
+    cursor: pointer;  
+    width: 100%;  
+    opacity: 0.9;  
+  }  
+  #submitbtn:hover {  
+    opacity: 1;  
+  } */
+   #searchResultButton:hover{
+ background-color: lightskyblue;
+cursor:pointer;
+  } 
+ 
+  #BookNowButton:hover{
+      background-color: lightskyblue;
+      cursor:pointer;
+  }
+   
+    #confirmsubmitbtn:hover{
+      background-color: lightskyblue;
+      cursor:pointer; 
+    
+  } 
+  body{  
+    
+    background-color:lavenderblush;  
+  }
+  
