@@ -116,7 +116,6 @@ var SomeFunction = function(){
     searchResultTable.innerHTML = data;
 }
  searchResultButton.onsubmit = SomeFunction;   
-console.log("bvkvdj");
 function getFlightDetails(key) {
     console.log(key);
     var foundDetails = [];
